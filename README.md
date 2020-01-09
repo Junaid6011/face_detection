@@ -10,6 +10,9 @@ pip install opencv-python
 how to install face_recognition?
 
 pip install face_recognition
+if there is a cache git memory then excute this line 
+
+sudo pip --no-cache install face_recognition
 
 step 1 : os liberies
 
